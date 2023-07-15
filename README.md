@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @anonymous21238
-- 🌱 I’m currently learning Data structure and Algorithms in C.
+- 🌱 I know Data structure and Algorithms.
+- 🌱 I’m currently learning web-development using mern stack.
 - 📫 How to reach me email- aryesh21238@iiitd.ac.in
 
 <!---
